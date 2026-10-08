@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Evgeniy! 👋
+### Frontend Developer & UI/UX Designer
 
-<!--
-**eb-lab26/eb-lab26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🎯 **Focus:** Building clean, responsive, and user-friendly web interfaces.
+- 🎨 **Design Background:** I blend typography, color theory, and UI/UX best practices to turn design concepts into pixel-perfect code.
+- 🚀 **Current Goal:** Sharpening my core Frontend skills and building a rock-solid portfolio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+## 🛠️ Tech Stack & Tools
+### Frontend Development
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![JavaScript](https://shields.io)
+
+### UI/UX & Graphic Design
+![Figma](https://shields.io)
+
+### Tools & Version Control
+![Git](https://shields.io)
+![VS Code](https://shields.io)
+
+<br/>
+
+## 📂 Featured Projects
+*Here are some of my responsive landing pages and web concept layouts:*
+- **[Cars Project](https://github.io)** — Web layout with dynamic components.
+- **[Travel Landing](https://github.io)** — Clean and modern interface for travel inspiration.
+- **[Women's Day Event](https://github.io)** — Festive responsive landing page.
+- **[Aderkina Designer Portfolio](https://github.io)** — Elegant UI concept.
+
+<br/>
+
+## 📫 Let's Connect!
+- **GitVerse Profile:** [eb-lab26 on GitVerse](https://gitverse.ru) *(замените на точную ссылку на ваш профиль)*
