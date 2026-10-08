@@ -31,12 +31,12 @@
 
 ## 📂 Featured Projects
 *Here are some of my responsive landing pages and web concept layouts:*
-- **[Cars Project](https://github.io)** — Web layout with dynamic components.
-- **[Travel Landing](https://github.io)** — Clean and modern interface for travel inspiration.
-- **[Women's Day Event](https://github.io)** — Festive responsive landing page.
-- **[Aderkina Designer Portfolio](https://github.io)** — Elegant UI concept.
+- **[Cars Project](https://eb-lab26.github.io/cars/)** — Web layout with dynamic components.
+- **[Travel Landing](https://eb-lab26.github.io/Trevel/)** — Clean and modern interface for travel inspiration.
+- **[Women's Day Event](https://eb-lab26.github.io/Women-s-Day/)** — Festive responsive landing page.
+- **[Aderkina Designer Portfolio]([https://github.io](https://eb-lab26.github.io/Aderkina_designer/))** — Elegant UI concept.
 
 <br/>
 
 ## 📫 Let's Connect!
-- **GitVerse Profile:** [eb-lab26 on GitVerse](https://gitverse.ru) *(замените на точную ссылку на ваш профиль)*
+- **GitVerse Profile:** [eb-lab26 on GitVerse](https://gitverse.ru/dashboard) 
