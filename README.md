@@ -39,4 +39,4 @@
 <br/>
 
 ## 📫 Let's Connect!
-- **GitVerse Profile:** [eb-lab on GitVerse](https://gitverse.ru/dashboard) 
+- **GitVerse Profile:** [eb-lab on GitVerse](https://gitverse.ru/eb-lab) 
