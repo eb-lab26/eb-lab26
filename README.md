@@ -10,27 +10,22 @@
 
 <br/>
 
+
 ## 🛠️ Tech Stack & Tools
 
 ### Frontend Development
-<img src="https://jsdelivr.net" width="40" height="40" alt="HTML5" /> &nbsp;
-<img src="https://jsdelivr.net" width="40" height="40" alt="CSS3" /> &nbsp;
-<img src="https://jsdelivr.net" width="40" height="40" alt="JavaScript" />
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
 
 ### UI/UX & Graphic Design
-<img src="https://jsdelivr.net" width="40" height="40" alt="Figma" />
+![](https://shields.io)
 
 ### Tools & Version Control
-<img src="https://jsdelivr.net" width="40" height="40" alt="Git" /> &nbsp;
-<img src="https://jsdelivr.net" width="40" height="40" alt="VS Code" />
+![](https://shields.io)
+![](https://shields.io)
 
 
-### UI/UX & Graphic Design
-![Figma](https://shields.io)
-
-### Tools & Version Control
-![Git](https://shields.io)
-![VS Code](https://shields.io)
 
 <br/>
 
