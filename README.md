@@ -1,11 +1,11 @@
 # Hi there, I'm Evgeniy! 👋
-### Frontend Developer & UI/UX Designer
+### Frontend Developer & UX/UI Designer
 
 <br/>
 
 ## 👨‍💻 About Me
 - 🎯 **Focus:** Building clean, responsive, and user-friendly web interfaces.
-- 🎨 **Design Background:** I blend typography, color theory, and UI/UX best practices to turn design concepts into pixel-perfect code.
+- 🎨 **Design Background:** I blend typography, color theory, and UX/UI best practices to turn design concepts into pixel-perfect code.
 - 🚀 **Current Goal:** Sharpening my core Frontend skills and building a rock-solid portfolio.
 
 <br/>
@@ -18,7 +18,7 @@
 ![](https://shields.io)
 ![](https://shields.io)
 
-### UI/UX & Graphic Design
+### UX/UI & Graphic Design
 ![](https://shields.io)
 
 ### Tools & Version Control
